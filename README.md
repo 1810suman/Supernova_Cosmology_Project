@@ -64,7 +64,7 @@
 <h2>📂 Repository Contents</h2>
 
 <ul>
-  <li><code>pantheon_shoes_data.txt</code> — Supernova dataset </li>
+  <li><code>Pantheon+SH0ES.txt</code> — Supernova dataset </li>
   <li><code>supernova_cosmology.ipynb</code> — Complete analysis notebook</li>
   <li><code>README.md</code> — Project overview and instructions</li>
   <li><code>requirements.txt</code> — List of required Python packages</li>
